@@ -43,7 +43,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ai_weslewis
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/CV_132_adobe_031621.pdf
+   link: media/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
